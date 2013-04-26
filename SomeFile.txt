@@ -10,6 +10,10 @@ lazy
 dog
 }
 
+Teammate B {
+        John Smith Paraggua
+}
+
 Some other code {
 the
 quick
