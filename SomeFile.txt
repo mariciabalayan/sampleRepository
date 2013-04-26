@@ -1,3 +1,7 @@
+Teammate A{
+	Maricia Balayan
+}
+
 Some code {
 the
 quick
