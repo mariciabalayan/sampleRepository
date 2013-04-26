@@ -1,3 +1,4 @@
+I have no teammate.
 Teammate A{
 	Maricia Balayan
 }
