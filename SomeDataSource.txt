@@ -1,0 +1,20 @@
+mysql config
+
+username = root
+
+password = root
+
+pooled = true
+
+url = 'jdbc:mysql://localhost:3306/project3332510?autoReconnect=true'
+
+properties {
+	maxActive = -1
+	minEvictableIdleTimeMillis=1500000
+	timeBetweenEvictionRunsMillis=1500000
+	numTestsPerEvictionRun=3
+	testOnBorrow=true
+	testWhileIdle=true
+	testOnReturn=true
+	validationQuery="SELECT 1"
+}

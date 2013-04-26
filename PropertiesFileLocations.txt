@@ -1,0 +1,7 @@
+EngPropFile = /home/john-smith/properties/ENG_PROP.properties
+
+JapPropFile = /home/john-smith/properties/JAP_PROP.properties
+
+FraPropFile = /home/john-smith/properties/FRA_PROP.properties
+
+EspPropFile = /home/john-smith/properties/ESP_PROP.properties
