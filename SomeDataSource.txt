@@ -18,3 +18,5 @@ properties {
 	testOnReturn=true
 	validationQuery="SELECT 1"
 }
+
+INEDIT KO TO!!!!!!!! -A
