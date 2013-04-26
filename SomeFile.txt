@@ -1,4 +1,4 @@
-I have no teammate.
+I have a teammate.
 Teammate A{
 	Maricia Balayan
 }
